@@ -10,12 +10,11 @@ Sistema de memorização onde o usuário deve memorizar um token, é redireciona
 Requisitos não funcionais: 
 
 RNF 01: Acessibilidade - O sistema deve garantir que seja acessível a todos, inclusive pessoas daltônicas.
-RNF 02: Usabilidade - A geração do token deve ser rápida.
-RNF 03: Interface de usuário (UI) - A página de redirecionamento deve ser responsiva.
+RNF 02: Usabilidade - A página funciona de forma compreensível e inteligível.
 RNF 04: Confiabilidade - O sistema emite alert para preenchimento de campo obrigatório.
 RNF 05: Implementação - Página web, usando JavaScript, HTML e CSS.
 RNF 06: Design - O design das cores é pensado para todos, inclusive pessoas daltônicas.
-RNF 07: Desempenho - A página funciona de forma compreensível e inteligível.
+RNF 07: Desempenho - A geração do token deve ser rápida.
 
 Requisitos funcionais:
 
