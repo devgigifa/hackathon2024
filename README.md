@@ -1,11 +1,15 @@
 # hackathon2024
 
-first day, in update...
+DESAFIO
+
+Treinando a memória utilizando sistema computacional
+
+Você e sua equipe deverão elaborar uma solução computacional capaz de permitir que as pessoas exercitem diariamente sua capacidade de memorização, a fim de prevenir doenças coomo Alxheimer e Demência precoce.
 
 
 Memorize - Sistema para memorização de token
 
-Sistema de memorização onde o usuário deve memorizar um token, é redirecionado para outra página e deve digitá-lo corretamente.
+Sistema de memorização onde o usuário deve memorizar um token e deve digitá-lo corretamente. Esse sistema foi desenvolvido em formato de site, contendo HTML, JavaScript e CSS. Foi feito protótipo de telas, levantamento de requisitos e diagrama de casos de uso.
 
 Requisitos não funcionais: 
 
