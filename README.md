@@ -1,5 +1,7 @@
 # hackathon2024
 
+2° lugar
+
 DESAFIO
 
 Treinando a memória utilizando sistema computacional
