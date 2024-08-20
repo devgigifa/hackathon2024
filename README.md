@@ -1,6 +1,6 @@
 # hackathon2024
 
-2° lugar 🥈🎊
+2° lugar Hackathon SENAI 2024 🥈🎊
 
 DESAFIO
 
