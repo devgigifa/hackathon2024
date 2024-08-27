@@ -6,7 +6,7 @@ checkBtn.addEventListener('click', () => {
     let tokenDigitado = tokenInput.value;
     if (tokenGerado === tokenDigitado) {
         alert("Token correto!");
-        window.location.href = 'memorize.html'; // redireciona para memorize.html
+        window.location.href = 'index.html'; // redireciona para memorize.html
     } else {
         alert("Token incorreto. Tente novamente!");
     }
