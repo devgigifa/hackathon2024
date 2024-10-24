@@ -25,9 +25,9 @@ Sistema de memorização onde o usuário deve memorizar um token e deve digitá-
 
 ### Requisitos Funcionais
 
-1. **RF 01:** O sistema deve gerar um token aleatório de acordo com os critérios que o usuário escolheu.
-2. **RF 02:** O usuário deve visualizar o token gerado e memorizá-lo.
-3. **RF 03:** O usuário deve ser redirecionado para uma página diferente, onde irá inseri-lo.
-4. **RF 04:** Na página de redirecionamento, o usuário deve digitar o token corretamente.
-5. **RF 05:** O sistema verifica se o token digitado pelo usuário está correto ou incorreto.
-6. **RF 06:** Quando o usuário erra ou acerta, aparece um alerta informando o resultado e redireciona à página inicial para registrar outro token.
+- **RF 01:** O sistema deve gerar um token aleatório de acordo com os critérios que o usuário escolheu.
+- **RF 02:** O usuário deve visualizar o token gerado e memorizá-lo.
+- **RF 03:** O usuário deve ser redirecionado para uma página diferente, onde irá inseri-lo.
+- **RF 04:** Na página de redirecionamento, o usuário deve digitar o token corretamente.
+- **RF 05:** O sistema verifica se o token digitado pelo usuário está correto ou incorreto.
+- **RF 06:** Quando o usuário erra ou acerta, aparece um alerta informando o resultado e redireciona à página inicial para registrar outro token.
